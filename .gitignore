@@ -1,0 +1,13 @@
+# Ignore everything by default
+*
+
+# Allow tracked files
+!.gitignore
+!index.html
+!script.js
+!styles.css
+!README.md
+
+# Allow assets directory and all contents
+!assets/
+!assets/**
