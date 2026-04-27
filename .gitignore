@@ -7,6 +7,8 @@
 !script.js
 !styles.css
 !README.md
+!robots.txt
+!sitemap.xml
 
 # Allow assets directory and all contents
 !assets/
